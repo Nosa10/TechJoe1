@@ -1,0 +1,11 @@
+#about{
+    margin: 20px;
+  } 
+#about h2{
+    margin-top: 20%;
+    display: inline;
+    background-color: #e8491d;
+    position: relative;
+    left: 50%;
+    font-style: italic;
+}

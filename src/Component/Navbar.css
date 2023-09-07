@@ -1,0 +1,18 @@
+.nave{
+    background-color: #35424a;
+    color: #ffff;
+    font: bold;
+}
+.navee{
+    color: #ffff;
+    font: bold;
+}
+.navee:hover{
+    color: #e8491d;
+}
+span{
+    color: #e8491d;
+}
+.brand{
+    color: #ffff;
+}

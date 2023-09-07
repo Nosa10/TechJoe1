@@ -1,0 +1,10 @@
+body{
+  font: 15px/1.5 arial, helvetica, sans-serif ;
+  overflow-x: hidden;
+}
+a{
+  color: #35424a;
+}
+a:hover{
+  color: #e8491d;
+}

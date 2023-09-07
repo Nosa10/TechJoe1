@@ -1,0 +1,25 @@
+#newsletter{
+    margin-top: 20px;
+    padding: 15px;
+    width: 100%;
+    color: #ffff;
+    background: #35424a;
+}
+#newsletter h1{
+    height: 50px;
+    margin: 5px;
+}
+#newsletter input{
+    margin: 5px;
+    height: 50px;
+    width: 70%;
+}
+#newsletter button{
+    background: #e8491d;
+    height: 50px;
+    border: 0;
+    border-radius: 15px;
+    color: #ffff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
