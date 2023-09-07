@@ -2,6 +2,11 @@ footer{
     background: #e8491d;
     text-align: center;
     padding: 20px;
-    margin: -20px;
+    /* margin: -20px; */
     margin-top: 20px;
 }
+@media screen and (max-width: 1024px)  {
+    footer{
+      width: 100%;
+    }
+  }
