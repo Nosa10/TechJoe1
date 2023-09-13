@@ -2,24 +2,28 @@
     margin-top: 20px;
     padding: 15px;
     width: 100%;
+    /* display: flex; */
+    text-align: center;
     color: #ffff;
     background: #35424a;
 }
 #newsletter h1{
-    height: 50px;
-    margin: 5px;
+   
+    margin: 20px;
 }
 #newsletter input{
-    margin: 5px;
-    height: 50px;
+    /* margin: 0px; */
+    padding: 10px;
     width: 70%;
 }
 #newsletter button{
-    background: #e8491d;
-    height: 50px;
+     background: #e8491d;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 0;
-    border-radius: 15px;
+    font-weight: bold;
+    border-radius: 10%;
     color: #ffff;
-    padding-left: 20px;
-    padding-right: 20px;
+    /* padding-left: 20px; */
+     padding-right: 20px; 
 }

@@ -8,5 +8,13 @@
 }
 img{
     height: 100%;
-    width: 90%;
+    width: 180%;
+}
+@media  screen and (max-width: 760px) {
+    .hero{
+        margin: 2px;
+    }
+    img{
+        width: 102%;
+    }
 }

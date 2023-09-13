@@ -1,15 +1,20 @@
 .co{
     
-    display: flex;
+    /* display: flex;
     align-items: center;
-    justify-content: center;
-    margin: 0;
+    justify-content: center; */
+    width: 100%;
+    margin: 10px;
 }
 .contain{
     background: white;
     border-radius: 12px;
-    width: 400px;
+    width: 100%;
     max-width: 100%;
+}
+input{
+    border: none;
+    padding: 10px;
 }
 .header{
     background: #e8491d;
@@ -20,15 +25,17 @@
     margin: 0
 }
 form{
+    width: 100%;
     padding: 30px 40px;
 }
 .form-control{
     margin-bottom: 10px;
     padding-bottom: 10px;
 }
-button{
+#form button{
     background: #e8491d;
-    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 0;
     border-radius: 15px;
     color: #ffff;
