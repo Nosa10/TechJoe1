@@ -2,17 +2,25 @@
     background-color: #35424a;
     color: #ffff;
     font: bold;
+    font-size: 30px;
 }
 .navee{
     color: #ffff;
     font: bold;
+    /* font-size: 50px; */
 }
 .navee:hover{
     color: #e8491d;
 }
 span{
     color: #e8491d;
+    font-size: 50px;
 }
 .brand{
     color: #ffff;
 }
+@media screen and (max-width: 1024px)  {
+    .nave{
+      margin-right: -20px;
+    }
+  }

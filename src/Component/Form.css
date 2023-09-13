@@ -1,16 +1,16 @@
 .co{
     
-    /* display: flex;
+    display: flex;
     align-items: center;
-    justify-content: center; */
+    justify-content: center;
     width: 100%;
     margin: 10px;
 }
 .contain{
     background: white;
     border-radius: 12px;
-    width: 100%;
-    max-width: 100%;
+    width: 98%;
+    /* max-width: 100%; */
 }
 input{
     border: none;
@@ -25,7 +25,6 @@ input{
     margin: 0
 }
 form{
-    width: 100%;
     padding: 30px 40px;
 }
 .form-control{
